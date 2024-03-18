@@ -1,0 +1,12 @@
+{
+    "access_denied": "Access is denied!",
+    "not_found_credential": "Not found credential",
+    "internal_error": "Internal Error",
+    "invalid_request": "Invalid Request",
+    "something_went_wrong": "Something went wrong",
+    "empty_user_id": "The identifier is required.",
+    "empty_user_username": "Username is required.",
+    "empty_user_password": "Password is required.",
+    "invalid_user_id": "The identifier is invalid.",
+    "invalid_user_username": "The username must be a string and be at least 5 characters long."
+}
